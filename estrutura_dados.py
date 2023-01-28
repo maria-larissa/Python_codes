@@ -53,7 +53,3 @@ conjb={5,2,9,4}
 print('conjb: {}'.format(conjb))
 print("Interseção conjunto a e b: {}". format(conja & conjb));
 print("União conjunto a e b: {}". format(conja | conjb));
-
-
-                        #DICIONÁRIOS
-
